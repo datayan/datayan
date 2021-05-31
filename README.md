@@ -3,7 +3,7 @@
 
 
 ![](https://img.shields.io/badge/Coding_Skills--informational?style=flat-square&logo=Codecademy&logoColor=white&?labelColor=1E415D)
-![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=yellow&color=1E415D)
+![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=F7F700&color=1E415D)
 ![](https://img.shields.io/badge/-R-informational?style=flat-square&logo=R&logoColor=white&color=2569BC)
 ![](https://img.shields.io/badge/-Julia-informational?style=flat-square&logo=Julia&logoColor=white&color=8E579E)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat-square&logo=HTML5&logoColor=white&color=DD4B25)
