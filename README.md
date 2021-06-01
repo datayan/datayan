@@ -34,7 +34,6 @@
 ![](https://img.shields.io/badge/-Apple_Music-informational?style=flat-square&logo=Apple-Music&logoColor=white&color=FA243C)
 ![](https://img.shields.io/badge/-Samsung_(root'd)-informational?style=flat-square&logo=Samsung&logoColor=white&color=1428A0)
 ![](https://img.shields.io/badge/-YT_Music-informational?style=flat-square&logo=Youtube-Music&logoColor=white&color=FF0000)
-![](https://img.shields.io/badge/-Tablet_(LineageOS)-informational?style=flat-square&logo=Xiaomi&logoColor=white&color=FF6900)
 ![](https://img.shields.io/badge/-Watch-informational?style=flat-square&logo=Wear-OS&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/-Kindle-informational?style=flat-square&logo=Amazon&logoColor=FF9900&color=000000)
 
