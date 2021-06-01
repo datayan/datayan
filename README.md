@@ -1,5 +1,5 @@
 ## Hi | 你好 | नमस्ते | Hola | নমস্কর | Bonjour | Привет | Hallo
-[![Header](https://raw.githubusercontent.com/datayan/datayan/main/banner.png "Header")]
+![Header](https://raw.githubusercontent.com/datayan/datayan/main/banner.png "Header")
 
 ![](https://img.shields.io/badge/Coding_Skills--informational?style=flat-square&logo=Codecademy&logoColor=white&?labelColor=1E415D)
 ![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=yellow&color=3776AB)
