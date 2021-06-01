@@ -28,23 +28,24 @@
 ![](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=Microsoft&logoColor=white&color=5E5E5E)
 ![](https://img.shields.io/badge/-Arch_(Noob)-informational?style=flat-square&logo=Arch-Linux&logoColor=white&color=1793D1)
 
-![](https://img.shields.io/badge/Must_Have--informational?style=flat-square&logo=Instapaper&logoColor=white&?labelColor=1E415D)
-![](https://img.shields.io/badge/-Starbucks-informational?style=flat-square&logo=CoffeeScript&logoColor=white&color=2F2625)
-![](https://img.shields.io/badge/-iPhone_(jb'd)-informational?style=flat-square&logo=Apple&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-Apple_Music-informational?style=flat-square&logo=Apple-Music&logoColor=white&color=FA243C)
-![](https://img.shields.io/badge/-Samsung_(root'd)-informational?style=flat-square&logo=Samsung&logoColor=white&color=1428A0)
-![](https://img.shields.io/badge/-YT_Music-informational?style=flat-square&logo=Youtube-Music&logoColor=white&color=FF0000)
-![](https://img.shields.io/badge/-Watch-informational?style=flat-square&logo=Wear-OS&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/-Kindle-informational?style=flat-square&logo=Amazon&logoColor=FF9900&color=000000)
-
 ![](https://img.shields.io/badge/Hobby_Tools--informational?style=flat-square&logo=Hotjar&logoColor=white&?labelColor=1E415D)
 ![](https://img.shields.io/badge/-Photoshop-informational?style=flat-square&logo=Adobe-Photoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/-Lightroom-informational?style=flat-square&logo=Adobe-Lightroom&logoColor=white&color=011D34)
 ![](https://img.shields.io/badge/-AutoCAD-informational?style=flat-square&logo=Autodesk&logoColor=white&color=BA2226)
 ![](https://img.shields.io/badge/-Fusion360-informational?style=flat-square&logo=Autodesk&logoColor=white&color=D07C2F)
 
-- 🔭 I’m currently working on this page. #FF6900
+![](https://img.shields.io/badge/I_Blog_At--informational?style=flat-square&logo=WordPress&logoColor=white&?labelColor=1E415D)
+![](https://img.shields.io/badge/-GitHub_with_Jekyll-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717)
+![](https://img.shields.io/badge/-Hashnode-informational?style=flat-square&logo=Hashnode&logoColor=white&color=2962FF)
 
+![](https://img.shields.io/badge/Must_Have--informational?style=flat-square&logo=Instapaper&logoColor=white&?labelColor=1E415D)
+![](https://img.shields.io/badge/-Starbucks-informational?style=flat-square&logo=CoffeeScript&logoColor=white&color=2F2625)
+![](https://img.shields.io/badge/-Apple_Music-informational?style=flat-square&logo=Apple-Music&logoColor=white&color=FA243C)
+![](https://img.shields.io/badge/-YT_Music-informational?style=flat-square&logo=Youtube-Music&logoColor=white&color=FF0000)
+![](https://img.shields.io/badge/-Watch-informational?style=flat-square&logo=Wear-OS&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/-Kindle-informational?style=flat-square&logo=Amazon&logoColor=FF9900&color=000000)
 
-
-
+![](https://img.shields.io/badge/Tinker_With--informational?style=flat-square&logo=Instapaper&logoColor=white&?labelColor=1E415D)
+![](https://img.shields.io/badge/-Jailbreaking-informational?style=flat-square&logo=Apple&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Custom_Roms-informational?style=flat-square&logo=LineageOS&logoColor=white&color=167C80)
+![](https://img.shields.io/badge/-Rooting-informational?style=flat-square&logo=Android&logoColor=white&color=A0C036)
