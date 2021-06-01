@@ -49,3 +49,7 @@
 ![](https://img.shields.io/badge/-Jailbreaking-informational?style=flat-square&logo=Apple&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Custom_Roms-informational?style=flat-square&logo=LineageOS&logoColor=white&color=167C80)
 ![](https://img.shields.io/badge/-Rooting-informational?style=flat-square&logo=Android&logoColor=white&color=A0C036)
+![](https://img.shields.io/badge/-Photography-informational?style=flat-square&logo=Photobucket&logoColor=black&color=F7DA04)
+![](https://img.shields.io/badge/-Gaming-informational?style=flat-square&logo=Game-Jolt&logoColor=black&color=CCFF00)
+
+#
