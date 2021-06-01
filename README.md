@@ -52,4 +52,4 @@
 ![](https://img.shields.io/badge/-Photography-informational?style=flat-square&logo=Photobucket&logoColor=black&color=F7DA04)
 ![](https://img.shields.io/badge/-Gaming-informational?style=flat-square&logo=Game-Jolt&logoColor=black&color=CCFF00)
 
-#
+
